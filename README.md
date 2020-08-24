@@ -8,4 +8,4 @@
 - 🌱 I’m currently learning Java 11
 - 👯 I’m looking to collaborate on new cool products
 - 💬 Ask me about anything
-- 📫 How to reach me: a.kan4988@gamil.com
+- 📫 How to reach me: a.kanishevskii@gmail.com
